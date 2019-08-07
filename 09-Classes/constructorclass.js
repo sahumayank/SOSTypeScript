@@ -13,6 +13,7 @@ var Student = /** @class */ (function () {
     }
     //creating method or function   
     Student.prototype.display = function () {
+        console.log("Class Method");
     };
     return Student;
 }());
