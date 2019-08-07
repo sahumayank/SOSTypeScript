@@ -18,6 +18,7 @@ class Student {
    }    
       //creating method or function   
    display():void {     
+    console.log("Class Method");
    }   
 }     
 //Creating an object or instance     
